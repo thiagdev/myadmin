@@ -16,3 +16,8 @@
 .disabled-color {
 	color: #00ced1;
 }
+.disabled {
+    pointer-events: none;
+	cursor: default;
+	text-decoration: none;
+}
