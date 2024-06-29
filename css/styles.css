@@ -7,3 +7,12 @@
 .input {
      border-radius: 0px;
 }
+.edit-color {
+     color: #007bff;
+}
+.delete-color {
+     color: #dc3545;
+}
+.disabled-color {
+	color: #00ced1;
+}
