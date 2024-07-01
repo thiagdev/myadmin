@@ -25,3 +25,12 @@
     border: 1px solid #c0c0c0;
     width: 120px;
 }
+.uppercase {
+    text-transform: uppercase;
+}
+.select {
+    border-radius: 0px;
+   appearance: none;
+   text-indent: 1px;
+   text-overflow: "";
+}
